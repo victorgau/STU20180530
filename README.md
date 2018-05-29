@@ -15,6 +15,7 @@
 * [Python 簡介](https://bit.ly/2kyApiy)
 * [Python 爬蟲簡介](https://bit.ly/2LEaGBj)
 * [Scikit-Learn 簡介](https://bit.ly/2sjo2dF)
+* [神經網路簡介](https://ppt.cc/fSPcjx)
 * [Keras 簡介](https://bit.ly/2ITViiw)
 
 ## 本次分享會使用的軟體：
